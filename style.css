@@ -1,0 +1,75 @@
+body{
+    background-color: aqua;
+    font-family: "Oswald", sans-serif;
+    Verdana, sans-serif;
+    
+}
+header {
+    background-color: aquamarine;
+    text-align: center;
+    font-size: xx-large;
+   padding: 10px;
+   border: 1px black solid;
+    
+}
+#img-persona{
+    height: 350px;
+    width: 330px;
+    border-radius: 2%;
+}
+main {
+    background-color: aquamarine;
+   text-align: justify;
+   width: fit-content;
+   height: fit-content;
+   padding: 10px;
+   border: 1px black solid;
+}
+footer{
+    background-color: rgb(201, 238, 248);
+    text-align: left;
+   border: 1px black solid;
+}
+h1 {
+    background-color: turquoise;
+    color: gray;
+}
+h2{
+    background-color: turquoise;
+    border: 2px solid red;
+    text-align: center;
+}
+h3 {
+    background-color: turquoise;
+    color: #0c0521;
+    border: 2px solid red;
+    text-align: center;
+    
+}
+p{
+    background-color: turquoise;
+}
+
+#trayectoria{
+    color: rgb(94, 86, 99);
+    text-align: center;
+    border: 1px solid red;
+}
+main section ul{
+    background-color: rgb(201, 238, 248);
+}
+.oswald-<uniquifier> {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    width: 100px;
+  }
+  
+/*comentario en CSS*/
+/* ctrl+} para etiqueta de comentario */
+/*.class #id */
+/* Proppiedad 'important' para remarcar la unica caracteristica dada al objeto es la que contenga esta propiedad */
+/* 'font-family' tipo de letra, puede ser predeterminado o importado de google */
+/* div: contenedor generico sin un significado semantico */
+/* 'box model' tieme: Content, padding, border, margin */
